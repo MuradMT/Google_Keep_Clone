@@ -1,6 +1,8 @@
+**Updated Code in the Open File:**
+```markdown
 # Google Keep Clone
 
-This repository contains a clean architecture implementation of a Google Keep clone using .NET Core in backend development and  Next.js in frontend development.Test suite will be implemented using XUnit.
+This repository contains a clean architecture implementation of a Google Keep clone using .NET Core in backend development and Next.js in frontend development. Test suite will be implemented using XUnit.
 
 ## Table of Contents
 
@@ -10,6 +12,7 @@ This repository contains a clean architecture implementation of a Google Keep cl
 - [Technologies Used](#technologies-used)
 - [Best Practices in Backend Development](#best-practices-in-backend-development)
 - [Testing](#testing)
+- [Frontend Development](#frontend-development)
 
 ## Getting Started
 
@@ -61,7 +64,7 @@ The project is organized into the following directories:
 - User registration and authentication using JWT.
 - Creating, updating, deleting, and retrieving notes.
 - Searching notes by title or content.
-- Pagination,Filtering and Sorting for retrieving notes.
+- Pagination, Filtering, and Sorting for retrieving notes.
 - Caching frequently accessed data using Redis.
 - Logging using Serilog.
 - Input validation using FluentValidation.
@@ -76,7 +79,6 @@ The project is organized into the following directories:
 - XUnit for testing
 - Next.js for frontend
 
-
 ## Best Practices in Backend Development
 
 - SOLID principles: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion.
@@ -88,7 +90,7 @@ The project is organized into the following directories:
 - Logging using Serilog.
 - Input validation using FluentValidation.
 - Error handling using custom middleware.
-- Pagination,Filtering,Sorting for retrieving data.
+- Pagination, Filtering, Sorting for retrieving data.
 - Caching frequently accessed data using Redis.
 
 ## Testing
@@ -105,13 +107,21 @@ To run the tests, execute the following command:
 dotnet test
 ```
 
+## Frontend Development
+
+The frontend of the project is built using Next.js, a React framework that provides server-side rendering and other features for building modern web applications.
+
+- The frontend code is located in the `src/Frontend` directory.
+- The project uses Next.js API routes for handling API requests from the frontend.
+- The frontend is built using React components and follows best practices for component design and state management.
+- The frontend uses Material-UI for styling and components.
+- The frontend includes features like user registration, note management, search, pagination, filtering, sorting, and caching.
+- The frontend is designed to work seamlessly with the backend API.
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
