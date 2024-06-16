@@ -123,4 +123,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ## Acknowledgments
 
-This project was inspired by the Google Keep app and follows best practices in backend development. It also utilizes various open-source technologies and libraries.
+This project was inspired by the Google Keep app and follows best practices in backend and frontend development. It also utilizes various open-source technologies and libraries.
