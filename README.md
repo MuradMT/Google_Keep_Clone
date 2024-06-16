@@ -1,5 +1,3 @@
-**Updated Code in the Open File:**
-```markdown
 # Google Keep Clone
 
 This repository contains a clean architecture implementation of a Google Keep clone using .NET Core in backend development and Next.js in frontend development. Test suite will be implemented using XUnit.
