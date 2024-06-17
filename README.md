@@ -66,6 +66,7 @@ The project is organized into the following directories:
 - Caching frequently accessed data using Redis.
 - Logging using Serilog.
 - Input validation using FluentValidation.
+- Load balancing and rate limiting.
 
 ## Technologies Used
 
