@@ -113,7 +113,7 @@ The frontend of the project is built using Next.js, a React framework that provi
 - The frontend code is located in the `src/Frontend` directory.
 - The project uses Next.js API routes for handling API requests from the frontend.
 - The frontend is built using React components and follows best practices for component design and state management.
-- The frontend uses Material-UI for styling and components.Tailwind css is also used for styling.
+- The frontend uses Daisy-UI as UI Library and Tailwind CSS for styling.
 - The frontend includes features like user registration, note management, search, pagination, filtering, sorting, and caching.
 - The frontend is designed to work seamlessly with the backend API.
 
