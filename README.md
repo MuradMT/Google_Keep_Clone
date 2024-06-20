@@ -67,6 +67,7 @@ The project is organized into the following directories:
 - Logging using Serilog.
 - Input validation using FluentValidation.
 - Load balancing and rate limiting.
+- API Versioning.
 
 ## Technologies Used
 
