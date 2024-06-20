@@ -68,6 +68,8 @@ The project is organized into the following directories:
 - Input validation using FluentValidation.
 - Load balancing and rate limiting.
 - API Versioning.
+- Background Service.
+- Email sending.
 
 ## Technologies Used
 
