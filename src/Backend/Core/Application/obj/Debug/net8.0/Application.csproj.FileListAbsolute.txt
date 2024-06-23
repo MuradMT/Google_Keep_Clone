@@ -1,0 +1,16 @@
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/bin/Debug/net8.0/Application.deps.json
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/bin/Debug/net8.0/Application.dll
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/bin/Debug/net8.0/Application.pdb
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/bin/Debug/net8.0/Domain.dll
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/bin/Debug/net8.0/Domain.pdb
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/obj/Debug/net8.0/Application.sourcelink.json
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/obj/Debug/net8.0/Application.csproj.CopyComplete
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/obj/Debug/net8.0/Application.dll
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/obj/Debug/net8.0/refint/Application.dll
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/obj/Debug/net8.0/Application.pdb
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Application/obj/Debug/net8.0/ref/Application.dll

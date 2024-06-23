@@ -1,0 +1,13 @@
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/bin/Debug/net8.0/Domain.dll
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/bin/Debug/net8.0/Domain.pdb
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/obj/Debug/net8.0/Domain.dll
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/obj/Debug/net8.0/Domain.pdb
+/home/muradmt/Public/Google_Keep_Clone/src/Backend/Core/Domain/obj/Debug/net8.0/ref/Domain.dll
