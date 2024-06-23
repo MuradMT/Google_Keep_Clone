@@ -5,3 +5,4 @@ global using Domain.Entities.Abstract;
 global using Microsoft.EntityFrameworkCore;
 global using Application.Interfaces.UnitOfWorks;
 global using Persistence.Repositories;
+global using Microsoft.Extensions.DependencyInjection;

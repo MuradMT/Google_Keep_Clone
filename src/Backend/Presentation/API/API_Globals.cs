@@ -1,1 +1,1 @@
-﻿
+﻿global using Persistence.Extensions;
